@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SURAJ_SAH_23MCC20088/1.0.0": {
+        "runtime": {
+          "SURAJ_SAH_23MCC20088.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SURAJ_SAH_23MCC20088/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
